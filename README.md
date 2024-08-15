@@ -97,3 +97,12 @@ If its less than that try with below, very tiny model
     ```
 
 ### Congrats thats it with setup, lets get into the code.
+
+## Bonus Points
+
+If you have enough compute capacity you can pullout and try with other models as well,
+
+![alt text](./images/models.jpg)
+
+For more information about the ollama you can check the below link,
+https://github.com/ollama/ollama
